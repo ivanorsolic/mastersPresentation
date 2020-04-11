@@ -45,7 +45,7 @@
       <guid>https://ivanorsolic.github.io/mastersPresentation/home/donkey/</guid>
       <description>DonkeyCar  What is Donkey? Donkey is a high level self driving library written in Python.
  How was it used? It was used as an interface between the RC car and the neural net that controls the car.
- Things Donkey solves:  📷Data preprocessing     🎮Controlling the RC car     ✅Data collection/labeling     🏋️‍♂️Custom model training     Question: RC Car only or Host PC + RC ❓    Donkey RC calibration  Steering calibration  Throttle calibration  Gamepad steering  Gamepad Throttle  Sanity check  First test track  Fancier test track  Collecting training data  First basic autopilot  </description>
+ Things Donkey solves:  📷Data preprocessing     🎮Controlling the RC car     ✅Data collection/labeling     🏋️‍♂️Custom model training     Question: RC Car only or Host PC + RC ❓   ---Donkey RC calibration  Steering calibration  Throttle calibration  Gamepad steering  Gamepad Throttle  Sanity check  First test track  Fancier test track  Collecting training data  First basic autopilot  </description>
     </item>
     
     <item>
@@ -105,7 +105,7 @@ Real data has no substitutes.  What makes a good sim  Image resolution  Real-wo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ivanorsolic.github.io/mastersPresentation/home/demo/</guid>
-      <description>Further avenues  Advanced lane finding with object recognition  Advanced object recognition  Data augmentation via neural art style transfer  Data augmentation via neural art style transfer  That&#39;s it folks.  </description>
+      <description>Further avenues  Advanced lane finding with object recognition  Advanced object recognition  Data augmentation via neural art style transfer  Data augmentation via neural art style transfer ---That&#39;s it folks.  </description>
     </item>
     
   </channel>
