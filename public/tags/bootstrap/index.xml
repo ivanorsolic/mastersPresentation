@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bootstrap on My Demo website</title>
-    <link>http://example.com/tags/bootstrap/</link>
+    <link>https://ivanorsolic.github.io/demo/tags/bootstrap/</link>
     <description>Recent content in bootstrap on My Demo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.com/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ivanorsolic.github.io/demo/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 3</title>
-      <link>http://example.com/project/project3/</link>
+      <link>https://ivanorsolic.github.io/demo/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/project/project3/</guid>
+      <guid>https://ivanorsolic.github.io/demo/project/project3/</guid>
       <description></description>
     </item>
     
