@@ -1,5 +1,5 @@
 theme = "reveal-hugo"
-
+baseURL = "https://ivanorsolic.github.io/mastersPresentation/"
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"
