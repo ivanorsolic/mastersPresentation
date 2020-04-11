@@ -3,134 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/project/project1/</loc>
+    <loc>/home/intro/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/project/project2/</loc>
+    <loc>/home/rc-cars-primer/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/project/project3/</loc>
+    <loc>/home/rc-car-assembly/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/project/project4/</loc>
+    <loc>/home/donkey/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/home/simulator/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/home/nvidia-model/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/home/architecture-proposal/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/home/lane-finding/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/home/behaviours/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/home/demo/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>/home/</loc>
   </url>
   
   <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/bootstrap/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/css/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/html/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/project/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/responsive/</loc>
-  </url>
-  
-  <url>
-    <loc>https://ivanorsolic.github.io/demo/tags/syntax-highlighting/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

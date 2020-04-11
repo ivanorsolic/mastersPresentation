@@ -1,3 +1,3 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
+[submodule "themes/reveal-hugo"]
+	path = themes/reveal-hugo
+	url = https://github.com/dzello/reveal-hugo
